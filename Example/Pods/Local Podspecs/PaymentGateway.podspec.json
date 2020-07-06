@@ -1,0 +1,22 @@
+{
+  "name": "PaymentGateway",
+  "version": "0.1.0",
+  "summary": "A short description of PaymentGateway.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tungnx-teko/PaymentGateway",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tungnx-teko": "tung.nx@teko.vn"
+  },
+  "source": {
+    "git": "https://github.com/tungnx-teko/PaymentGateway.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PaymentGateway/Classes/**/*"
+}

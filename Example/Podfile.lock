@@ -1,0 +1,16 @@
+PODS:
+  - PaymentGateway (0.1.0)
+
+DEPENDENCIES:
+  - PaymentGateway (from `../`)
+
+EXTERNAL SOURCES:
+  PaymentGateway:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PaymentGateway: ba0fd3fbc2c3c60050d2aeba1dd10ddc5581f26e
+
+PODFILE CHECKSUM: 4e3fc8002e7765f2bd88992138f41382f8117520
+
+COCOAPODS: 1.9.1
